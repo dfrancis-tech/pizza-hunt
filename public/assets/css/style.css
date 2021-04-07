@@ -1,11 +1,11 @@
 :root {
-  --primary: #e4b363;
-  --secondary: #ef6461;
-  --tertiary: #fffd8c;
+  --primary: #e98f0f;
+  --secondary: #afb881;
+  --tertiary: #c1883f;
   --quaternary: #e0dfd5;
-  --quinary: #fcf83b;
+  --quinary: #f1f1c6;
   --light: #e8e9eb;
-  --dark: #313638;
+  --dark: #a84064;
   --border-radius: 1.5rem;
   --spacing-one: calc(1rem * 0.25);
   --spacing-two: calc(1rem * 0.5);
@@ -35,7 +35,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: color;
-  background-color: rgba(255, 255, 255, 0.65);
+  background-color: rgba(145, 168, 119, 0.5);
 }
 
 h1,
