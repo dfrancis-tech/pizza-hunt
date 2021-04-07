@@ -54,12 +54,10 @@
 ## Mock-Up
 The following image shows the web application's appearance and functionality.
 
-
+![Mock-up image](/assets/images/mock-up.gif "Mock-up image")
 
 ## Code Review
 
 The completed project is uploaded in Github.  
-Repository link:  
-> [GitHub](https://github.com/rosefrancis-tech/pizza-hunt)
-Project Board link:  
-> [GitHub Projects](https://github.com/rosefrancis-tech/pizza-hunt/projects/1?fullscreen=true)
+Repository link:  [GitHub](https://github.com/rosefrancis-tech/pizza-hunt)
+Project Board link:  [GitHub Projects](https://github.com/rosefrancis-tech/pizza-hunt/projects/1?fullscreen=true)
