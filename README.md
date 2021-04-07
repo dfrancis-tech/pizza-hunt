@@ -20,6 +20,7 @@
 * MongoDB
 * Mongoose
 * Heroku
+* MongoDB Atlas
 * IndexedDB
 * PWA
 * REST
@@ -54,7 +55,7 @@
 ## Mock-Up
 The following image shows the web application's appearance and functionality.
 
-![Mock-up image](/assets/images/mock-up.gif "Mock-up image")
+![Mock-up image](public/assets/images/mock-up.gif "Mock-up image")
 
 ## Code Review
 
