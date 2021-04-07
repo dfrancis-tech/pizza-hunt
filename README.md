@@ -11,7 +11,10 @@
  ## Introduction
  Pizza is ubiquitous in everyday life all over the world. This application has been created with the sole purpose of facilitating discussions about it.
 
- ## Built With
+## Live Project
+
+
+## Built With
 * JavaScript ES5  
 * JavaScript ES6  
 * JSON
@@ -60,5 +63,5 @@ The following image shows the web application's appearance and functionality.
 ## Code Review
 
 The completed project is uploaded in Github.  
-Repository link:  [GitHub](https://github.com/rosefrancis-tech/pizza-hunt)
+Repository link:  [GitHub](https://github.com/rosefrancis-tech/pizza-hunt)  
 Project Board link:  [GitHub Projects](https://github.com/rosefrancis-tech/pizza-hunt/projects/1?fullscreen=true)
